@@ -1,5 +1,5 @@
 # 💫 About Me:
-🙋‍♂️ I'm a software engineering student.<br>🔭 I'm currently working on an event ticketing system.<br>🌱 I’m currently learning nodejs backend<br>💬 I'm passionate about cybersecurity<br>⚡ I prefer backend development to frontend
+🙋‍♂️ I'm a student.<br>🔭 I'm currently working on an event ticketing system.<br>🌱 I’m currently learning nodejs backend<br>💬 I'm passionate about cybersecurity<br>⚡ I prefer backend development to frontend
 
 
 # 💻 Tech Stack:
