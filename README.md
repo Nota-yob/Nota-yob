@@ -1,5 +1,5 @@
 # 💫 About Me:
-🙋‍♂️ I'm a student.<br>🔭 I'm currently working on an event ticketing system.<br>🌱 I’m currently learning nodejs backend<br>💬 I'm passionate about cybersecurity<br>⚡ I prefer backend development to frontend
+🙋‍♂️ I'm a computer science student.<br>🔭 I'm currently working on a 3D video game using Unity.<br>🌱 I’m currently learning nodejs backend and Unity C#.<br>💬 I'm passionate about cybersecurity<br>⚡ I prefer backend development to frontend
 
 
 # 💻 Tech Stack:
